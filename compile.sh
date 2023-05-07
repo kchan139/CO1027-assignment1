@@ -1,0 +1,1 @@
+g++ -g -o main main.cpp -o knight knight.cpp -I . -std=c++11
